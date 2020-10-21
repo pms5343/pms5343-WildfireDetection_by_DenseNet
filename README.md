@@ -1,1 +1,1 @@
-# pms5343-WildfireDetection_by_DenseNet
+# DenseNet-based Wildfire-detection Method with Generative Adversarial Networks
